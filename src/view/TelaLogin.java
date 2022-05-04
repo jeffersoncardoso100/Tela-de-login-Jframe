@@ -83,7 +83,7 @@ public class TelaLogin extends javax.swing.JFrame {
 
         jLabel4.setIcon(new javax.swing.ImageIcon(getClass().getResource("/images/gaa.png"))); // NOI18N
 
-        jLabel3.setFont(new java.awt.Font("Times New Roman", 0, 18)); // NOI18N
+        jLabel3.setFont(new java.awt.Font("Times New Roman", 0, 14)); // NOI18N
         jLabel3.setText("Financeiro");
 
         javax.swing.GroupLayout layout = new javax.swing.GroupLayout(getContentPane());
